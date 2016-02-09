@@ -3,6 +3,8 @@ All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
+
+## [0.2.0] - 2016-02-09
 ### Added
 - Support for PostgreSQL array functions and operators
 
@@ -12,5 +14,6 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 - Support for JSONHash, JSONArray, JSONOp
 - Support for JSONBHash, JSONBArray, JSONBOp
 
-[Unreleased]: https://github.com/Acornsgrow/hanami-postgres_coercers/compare/v0.1.0...HEAD
+[Unreleased]: https://github.com/Acornsgrow/hanami-postgres_coercers/compare/v0.2.0...HEAD
+[0.2.0]: https://github.com/Acornsgrow/hanami-postgres_coercers/compare/v0.1.0...v0.2.0
 [0.1.0]: https://github.com/Acornsgrow/hanami-postgres_coercers/compare/430b4b4a18a775891752602591a70ce942bffb31...v0.1.0

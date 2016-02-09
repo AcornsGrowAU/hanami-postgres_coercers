@@ -52,7 +52,7 @@ Reference the appropriate coercer in the Hanami model mapping.
 require "hanami/postgres_coercers"
 
 # Hanami::PostgresCoercers::PgArray is intended to be used with enums;
-# you must subclass the coercer and specify the enum
+# you must subclass the coercer and specify the type
 class RoleArray < Hanami::PostgresCoercers::PgArray
   type :role
 end

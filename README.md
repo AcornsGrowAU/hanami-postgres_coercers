@@ -5,7 +5,7 @@
 Hanami::PostgresCoercers provides a collection of Hanami coercers for postgres
 extensions.  The following types are currently supported:
 
-* Hanami::PostgresCoercers::PgArray (PGArray)
+* Hanami::PostgresCoercers::PgArray (PGArray, ArrayOp)
 * Hanami::PostgresCoercers::PgJson (JSONHash, JSONArray, JSONOp)
 * Hanami::PostgresCoercers::PgJsonb (JSONBHash, JSONBArray, JSONBOp)
 
